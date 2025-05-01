@@ -48,6 +48,6 @@ Chef.AI is a smart, AI-powered restaurant management system designed to promote 
 Feature Description:
 
 The Image Search feature lets users upload or search for food images and receive personalized recipe suggestions based on visual recognition. This brings AI-driven personalization to a whole new level using visual input instead of text.
-
+**Some functions are not working as it asks for payment**
 
 ### APK Link- https://drive.google.com/file/d/15XOIaj6kzh2RCT80kBF8qjVK38lq7Ajo/view?usp=sharing
